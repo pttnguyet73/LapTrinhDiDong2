@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\layout_fragment_author.xml.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\layout\\fragment_author.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\drawable_ic_android_black_24dp.xml.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\drawable\\ic_android_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\layout_fragment_tab3.xml.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\layout\\fragment_tab3.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\layout_fragment_tab1.xml.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\layout\\fragment_tab1.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\drawable_ic_cart.png.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\drawable\\ic_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\layout_fragment_hobby.xml.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\layout\\fragment_hobby.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\drawable_myself.png.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\drawable\\myself.png"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\layout_fragment_review.xml.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\layout\\fragment_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\drawable_school.png.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\drawable\\school.png"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\menu_menu_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\menu\\menu_bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\layout_fragment_tab2.xml.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\layout\\fragment_tab2.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\drawable_hobby.png.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\drawable\\hobby.png"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\layout_test_layout.xml.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\layout\\test_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.fragment.app-debug-31:/layout_fragment_about.xml.flat",
+        "source": "com.example.fragment.app-main-33:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-debug-31:\\color_custom_color_navigation.xml.flat",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\color\\custom_color_navigation.xml"
+    }
+]

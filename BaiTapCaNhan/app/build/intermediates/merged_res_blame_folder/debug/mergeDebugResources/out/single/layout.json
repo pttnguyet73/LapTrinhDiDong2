@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-mergeDebugResources-30:\\layout\\fragment_tab1.xml",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\layout\\fragment_tab1.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-mergeDebugResources-30:\\layout\\test_layout.xml",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\layout\\test_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-mergeDebugResources-30:\\layout\\fragment_tab3.xml",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\layout\\fragment_tab3.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-mergeDebugResources-30:\\layout\\fragment_about.xml",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "com.example.fragment.app-mergeDebugResources-30:/layout/fragment_about.xml",
+        "source": "com.example.fragment.app-main-33:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-mergeDebugResources-30:\\layout\\fragment_hobby.xml",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\layout\\fragment_hobby.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-mergeDebugResources-30:\\layout\\fragment_tab2.xml",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\layout\\fragment_tab2.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-mergeDebugResources-30:\\layout\\fragment_review.xml",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\layout\\fragment_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-mergeDebugResources-30:\\layout\\fragment_author.xml",
+        "source": "C:\\Users\\MY HP\\.gradle\\daemon\\8.7\\com.example.fragment.app-main-33:\\layout\\fragment_author.xml"
+    }
+]

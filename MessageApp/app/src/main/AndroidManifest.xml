@@ -5,6 +5,8 @@
     <uses-permission android:name="android.permission.READ_CONTACTS" />
     <uses-permission android:name="android.permission.WRITE_CONTACTS" />
     <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.READ_CALL_LOG"/>
+
 
     <uses-feature
         android:name="android.hardware.telephony"
@@ -25,6 +27,9 @@
             android:exported="false" />
         <activity
             android:name=".DanhBa"
+            android:exported="false" />
+        <activity
+            android:name=".LichSuCuocGoi"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
